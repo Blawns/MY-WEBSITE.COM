@@ -1,0 +1,34 @@
+h1 {
+    color: black;
+    background-color: gold;
+}
+
+h2 {
+    color: orangered;
+}
+
+p {
+    color: red;
+}
+
+h3 {
+    color: maroon;
+}
+
+.note {
+    font-size: 20px;
+}
+
+*{
+    text-align: center;
+}
+
+li {
+    color: black
+}
+
+#id-selector-demo {
+    color: darkblue;
+}
+
+
