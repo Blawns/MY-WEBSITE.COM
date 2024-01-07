@@ -20,7 +20,7 @@ h3 {
 }
 
 *{
-    text-align: center;
+    text-align: left;
 }
 
 li {
@@ -33,6 +33,14 @@ li {
 
 body {
     Background-color: antiquewhite
+}
+
+h1 {
+    font-style: italic;
+}
+
+h1 {
+    font-size: 50px;
 }
 
 
